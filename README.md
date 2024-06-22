@@ -151,20 +151,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 * [Benjamin Rodriguez](https://github.com/bmrodriguez)
-* [Amir Saeed](https://github.com/AmirSaeed96)
+* [Amir Saeed](https://github.com/AmirSaeed96)s
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
-[contributors-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
 [forks-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/network/members
-[stars-shield]: https://img.shields.io/github/stars/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
 [stars-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/stargazers
-[issues-shield]: https://img.shields.io/github/issues/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/license/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
 [issues-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/issues
 [license-shield]: https://img.shields.io/github/license/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
 [license-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/blob/master/LICENSE.txt
