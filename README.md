@@ -151,6 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * [Benjamin Rodriguez](https://github.com/bmrodriguez)
 * [Amir Saeed](https://github.com/AmirSaeed96)
 * [Erhan Guven](https://github.com/guven6)
+* [Alhassan Yasin](https://github.com/yasin1)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
