@@ -38,8 +38,6 @@
     <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial">View Demo</a>
-    ·
     <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/issues">Report Bug</a>
     ·
     <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/issues">Request Feature</a>
