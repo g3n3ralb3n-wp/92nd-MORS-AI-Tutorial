@@ -16,12 +16,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+<div align="center">
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -161,7 +162,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [forks-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/network/members
 [stars-shield]: https://img.shields.io/github/stars/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
 [stars-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/stargazers
-[issues-shield]: https://img.shields.io/github/license/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
+[issues-shield]: https://img.shields.io/github/issues/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
 [issues-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/issues
 [license-shield]: https://img.shields.io/github/license/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
 [license-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/blob/master/LICENSE.txt
