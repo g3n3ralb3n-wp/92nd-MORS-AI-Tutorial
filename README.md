@@ -149,7 +149,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 * [Benjamin Rodriguez](https://github.com/bmrodriguez)
-* [Amir Saeed](https://github.com/AmirSaeed96)s
+* [Amir Saeed](https://github.com/AmirSaeed96)
+* [Erhan Guven](https://github.com/guven6)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
