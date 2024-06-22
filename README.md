@@ -159,15 +159,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
-[contributors-url]: https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/graphs/contributors
+[contributors-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
-[forks-url]: https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/network/members
+[forks-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/network/members
 [stars-shield]: https://img.shields.io/github/stars/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
-[stars-url]: https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/stargazers
+[stars-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/stargazers
 [issues-shield]: https://img.shields.io/github/issues/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
-[issues-url]: https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/issues
-[license-shield]: https://img.shields.io/github/license/g3n3ralb3n-wp/Algorithms-Tutorial.svg?style=for-the-badge
-[license-url]: https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/blob/master/LICENSE.txt
+[issues-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/issues
+[license-shield]: https://img.shields.io/github/license/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial
+[license-url]: https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ben-a-johnson
 [product-screenshot]: images/screenshot.png
