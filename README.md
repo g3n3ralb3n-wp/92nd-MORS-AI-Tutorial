@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial](https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/)">
+  <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial">
     <img src="images/logo.png" alt="Logo" width="" height="">
   </a>
 
@@ -35,14 +35,14 @@
   <p align="center">
     This is a combined repository of all of our current Algorithms for Data Science modules and the associated algorithms written in Python
     <br />
-    <a href="https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial">View Demo</a>
+    <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial">View Demo</a>
     ·
-    <a href="https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/issues">Report Bug</a>
+    <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/issues">Report Bug</a>
     ·
-    <a href="https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/issues">Request Feature</a>
+    <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial/issues">Request Feature</a>
   </p>
 </div>
 
@@ -99,41 +99,30 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Steps on how to download...
+Follow the instructions given in the tutorial. We will direct you to this page. You can then go to this Google Colab link and use the data sets from this page to upload to your Google Drive. 
+
+[https://colab.research.google.com/drive/19mNt4UP27oR282l1BkECtESCNCqOcnqP?usp=sharing](Google Colab Link to read-only Notebook)
+
+Once you click on this link it will take you to the Google Colab page. You can follow these steps:
+
+1. Click "File"
+2. Click "Save a copy in Drive"
+3. Name the file
+4. Open that Colab Notebook.
+5. Download the data set files from this GitHub
+6. Click "Files" on the left hand side of the screen
+7. Click "Upload to Session Storage button" OR "Mount Drive"
+8. Use one of those methods to attach the data sets.
+9. Ready to begin!
 
 ### Prerequisites
 
-Downloading Python and Jupyter Notebooks...
+You only need to have Google Colab installed if you want to use these Jupyter Notebooks. We don't require that you do this from your machine unless you already have a computer that hsa everything necessary to complete the examples.
 
-### Installation
 
-1. Instruction #1
-2. Instruction #2
-3. Etc.
-4. Etc.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://python.org)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-* [ ] Feature 1
-* [ ] Feature 2
-* [ ] Feature 3
-  * [ ] Nested Feature
-
-See the [open issues](https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -163,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [Benjamin Johnson](https://github.com/g3n3ralb3n-wp) - [@g3n3ralb3n](https://twitter.com/g3n3ralb3n) - <bjohn159@jhu.edu>
 
-[https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial](https://github.com/g3n3ralb3n-wp/Algorithms-Tutorial)
+[https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial](https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
