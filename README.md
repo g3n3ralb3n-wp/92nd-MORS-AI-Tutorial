@@ -33,7 +33,7 @@
 <h3 align="center">92nd MORS Tutorial for Artificial Intelligence</h3>
 
   <p align="center">
-    This is a combined repository of all of our current Algorithms for Data Science modules and the associated algorithms written in Python
+    This is a combined repository of all of the data sets and Jupyter Notebooks used during the tutorial for the 92nd MORS Symposium in Monterey California.
     <br />
     <a href="https://github.com/g3n3ralb3n-wp/92nd-MORS-AI-Tutorial"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,21 +63,12 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-![Product Name Screen Shot][product-screenshot]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -101,7 +92,7 @@
 
 Follow the instructions given in the tutorial. We will direct you to this page. You can then go to this Google Colab link and use the data sets from this page to upload to your Google Drive. 
 
-[https://colab.research.google.com/drive/19mNt4UP27oR282l1BkECtESCNCqOcnqP?usp=sharing](Google Colab Link to read-only Notebook)
+[https://colab.research.google.com/drive/19mNt4UP27oR282l1BkECtESCNCqOcnqP?usp=sharing](https://colab.research.google.com/drive/19mNt4UP27oR282l1BkECtESCNCqOcnqP?usp=sharing)
 
 Once you click on this link it will take you to the Google Colab page. You can follow these steps:
 
