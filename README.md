@@ -88,27 +88,13 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Follow the instructions given in the tutorial. We will direct you to this page. You can then go to this Google Colab link and use the data sets from this page to upload to your Google Drive. 
+Follow the instructions given in the tutorial and it should have led you to this page. You will find multiple Jupyter Notebooks on this page. You can clone this repository or if that is not available for your machine you can opt to download each Jupyter Notebook individually. If you do this, you can then import into Google Colab or use your local Python instantiation to run the notebooks. 
 
-[https://colab.research.google.com/drive/19mNt4UP27oR282l1BkECtESCNCqOcnqP?usp=sharing](https://colab.research.google.com/drive/19mNt4UP27oR282l1BkECtESCNCqOcnqP?usp=sharing)
-
-Once you click on this link it will take you to the Google Colab page. You can follow these steps:
-
-1. Click "File"
-2. Click "Save a copy in Drive"
-3. Name the file
-4. Open that Colab Notebook.
-5. Download the data set files from this GitHub
-6. Click "Files" on the left hand side of the screen
-7. Click "Upload to Session Storage button" OR "Mount Drive"
-8. Use one of those methods to attach the data sets.
-9. Ready to begin!
+[https://colab.research.google.com](https://colab.research.google.com)
 
 ### Prerequisites
 
-You only need to have Google Colab installed if you want to use these Jupyter Notebooks. We don't require that you do this from your machine unless you already have a computer that hsa everything necessary to complete the examples.
-
-
+You only need to have Google Colab installed if you want to use these Jupyter Notebooks. We don't require that you do this from your machine unless you already have a computer that has everything necessary to complete the examples.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
